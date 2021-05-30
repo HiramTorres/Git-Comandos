@@ -25,8 +25,8 @@ examine the history and state (see also: git help revisions)
    > Show changes between commits, commit and working tree, etc
    * **grep** 
    > Print lines matching a pattern
-   * **log**
-   > Show commit logs
+   * **log** // Muestra los commit hechos, cuando y por quien 
+   > git log
    * **show** 
    > Show various types of objects
    * **status**
